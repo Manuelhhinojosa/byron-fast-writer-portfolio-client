@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Reddit+Mono:wght@200..900&family=Ubuntu:wght@300;400;500;700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-size: "Inter", sans-serif;
+}
