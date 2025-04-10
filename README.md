@@ -1,8 +1,50 @@
-# React + Vite
+# Byron Fast — Personal Portfolio Website ✍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_Professional portfolio for a real client, built with React, TailwindCSS, and Framer Motion_
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📘 Overview
+
+This project is a custom-designed portfolio website for **Byron Fast**, a professional content writer and editor. The site showcases Byron’s work, writing philosophy, and services, with a clean, accessible layout and smooth animations. Built from scratch using React, TailwindCSS, and Framer Motion, this project emphasizes elegant design, fast performance, and a seamless user experience.
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View Live Site](https://byronfast.netlify.app)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework:** React
+- **Styling:** TailwindCSS
+- **Animations:** Framer Motion
+- **Hosting:** Netlify (or Vercel)
+
+---
+
+## 🎯 Features
+
+- Fully responsive and mobile-friendly layout
+- Scroll-based and entrance animations using Framer Motion
+- Clean, accessible typography and layout
+- Optimized for performance and SEO best practices
+- Content sections include: About, Work Samples, Services, Contact
+
+---
+
+## 🧠 What I Learned
+
+This project was a great opportunity to:
+Work with a real client and translate their vision into code
+Collaborate on copywriting and branding decisions
+Use Framer Motion for natural animation flow
+Fine-tune UI/UX details using utility-first CSS with Tailwind
+
+---
+
+## ✍️ About the Client
+
+Byron Fast is a seasoned content writer and creative collaborator who works with individuals and organizations to develop engaging, high-quality written material. This portfolio highlights his range, writing voice, and service offerings.
