@@ -48,3 +48,7 @@ Fine-tune UI/UX details using utility-first CSS with Tailwind
 ## ✍️ About the Client
 
 Byron Fast is a seasoned content writer and creative collaborator who works with individuals and organizations to develop engaging, high-quality written material. This portfolio highlights his range, writing voice, and service offerings.
+
+---
+
+Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
